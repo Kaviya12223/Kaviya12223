@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kaviya
-- 👀 I’m interested in contributing Projects and research papers  
-- 🌱 I’m currently learning Data Science 
-- 💞️ I’m looking to collaborate on Data Science and Machine Learning Projects
+- 👋 Hi, I’m Kaviya
+- 👀 I’m interested in contributing Projects  
+- 🌱 I’m currently learning Computer Science and Engineering 
+- 💞️ I’m looking to collaborate on Data Science Devops and Machine Learning Projects
 - 📫 How to reach me LinkedIn"https://www.linkedin.com/in/kaviya-g-670685254/"
 
 
