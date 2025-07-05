@@ -1,10 +1,3 @@
-- 👋 Hi, I’m Kaviya
-- 👀 I’m interested in contributing Projects  
-- 🌱 I’m currently learning Computer Science and Engineering 
-- 💞️ I’m looking to collaborate on Data Science Devops and Machine Learning Projects
-- 📫 How to reach me LinkedIn"https://www.linkedin.com/in/kaviya-g-670685254/"
-
-
 <!---
 Kaviya12223/Kaviya12223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -21,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **kaviyamythili8@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/kaviya7812/](https://www.linkedin.com/in/kaviya7812/)
+- 📄 Know about my experiences [kaviya7812/](https://www.linkedin.com/in/kaviya7812/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
