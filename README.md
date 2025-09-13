@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👯 I’m looking to collaborate on **Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kaviya12223)](https://github.com/Kaviya12223
+- 👨‍💻 All of my projects are available at [https://github.com/Kaviya12223](https://github.com/Kaviya12223)
 
 - 📫 How to reach me **kaviyamythili8@gmail.com**
 
