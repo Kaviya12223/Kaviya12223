@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **kaviyamythili8@gmail.com**
 
-- 📄 Know about my experiences [kaviya7812/](https://www.linkedin.com/in/kaviyag12/)
+- 📄 Know about my experiences [kaviyag12/](https://www.linkedin.com/in/kaviyag12/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
